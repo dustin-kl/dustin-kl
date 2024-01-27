@@ -1,4 +1,8 @@
-### Hi there 👋
+👋 Hi, I’m Dustin Klebe. I'm Co-founder of Sonia, an AI mental health therapist
+🔬 [Here](https://scholar.google.com/citations?user=s_KVbw4AAAAJ) you find mostly work from my research in Machine Learning at MIT and ETH
+👀 I’m excited to deepening our understanding of cognition and language.
+🌱 I’m working with PyTorch, PyTorch Lightning, and other Python/ML frameworks.
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/dustin-klebe-679675163/)
 
 <!--
 **dustin-kl/dustin-kl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
